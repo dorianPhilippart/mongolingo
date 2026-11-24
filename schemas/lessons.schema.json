@@ -1,0 +1,15 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["_id", "courseCode", "title", "order", "durationMin", "isChallenge", "skills"],
+    "properties": {
+      "_id": { "bsonType": "string" },
+      "courseCode": { "bsonType": "string" },
+      "title": { "bsonType": "string" },
+      "order": { "bsonType": "int" },
+      "durationMin": { "bsonType": "int" },
+      "isChallenge": { "bsonType": "bool" },
+      "skills": { "bsonType": "array" }
+    }
+  }
+}

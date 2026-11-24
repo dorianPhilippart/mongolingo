@@ -1,0 +1,12 @@
+[
+  {"_id":"b1","userId":"u1","name":"Filter Rookie","tier":"bronze","awardedAt":"2025-05-01T10:00:00.000Z"},
+  {"_id":"b2","userId":"u3","name":"Aggregation Starter","tier":"silver","awardedAt":"2025-05-03T12:10:00.000Z"},
+  {"_id":"b3","userId":"u5","name":"Lookup Master","tier":"gold","awardedAt":"2025-05-04T09:45:00.000Z"},
+  {"_id":"b4","userId":"u7","name":"Streak 7","tier":"bronze","awardedAt":"2025-05-05T16:33:00.000Z"},
+  {"_id":"b5","userId":"u10","name":"XP 2500","tier":"silver","awardedAt":"2025-05-06T11:20:00.000Z"},
+  {"_id":"b6","userId":"u12","name":"Course Finisher","tier":"bronze","awardedAt":"2025-05-08T08:05:00.000Z"},
+  {"_id":"b7","userId":"u3","name":"Challenge Clear","tier":"gold","awardedAt":"2025-05-10T14:40:00.000Z"},
+  {"_id":"b8","userId":"u5","name":"No Hint Hero","tier":"gold","awardedAt":"2025-05-12T18:00:00.000Z"},
+  {"_id":"b9","userId":"u1","name":"JSON Operator","tier":"silver","awardedAt":"2025-05-14T09:00:00.000Z"},
+  {"_id":"b10","userId":"u9","name":"Steady Learner","tier":"bronze","awardedAt":"2025-05-15T13:12:00.000Z"}
+]

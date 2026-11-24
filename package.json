@@ -1,0 +1,28 @@
+{
+  "name": "mongolingo",
+  "version": "1.0.0",
+  "description": "Plateforme pédagogique MongoDB avec React et Express",
+  "main": "server/app.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "node server/app.js",
+    "dev:client": "npm --prefix frontend run dev",
+    "start": "node server/app.js",
+    "lint": "npm --prefix frontend run lint",
+    "build": "npm --prefix frontend run build"
+  },
+  "keywords": [],
+  "author": "Dorian Philippart",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bson": "^7.2.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "multer": "^2.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

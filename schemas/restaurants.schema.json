@@ -1,0 +1,25 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["restaurant_id", "name", "borough", "cuisine", "address", "grades"],
+    "properties": {
+      "restaurant_id": { "bsonType": "string" },
+      "name": { "bsonType": "string" },
+      "borough": { "bsonType": "string" },
+      "cuisine": { "bsonType": "string" },
+      "address": {
+        "bsonType": "object",
+        "required": ["building", "street", "zipcode", "coord"],
+        "properties": {
+          "building": { "bsonType": "string" },
+          "street": { "bsonType": "string" },
+          "zipcode": { "bsonType": "string" },
+          "coord": { "bsonType": "array" }
+        }
+      },
+      "grades": {
+        "bsonType": "array"
+      }
+    }
+  }
+}

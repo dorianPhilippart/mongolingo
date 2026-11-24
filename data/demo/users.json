@@ -1,0 +1,14 @@
+[
+  {"_id":"u1","username":"amina","country":"FR","level":4,"streak":12,"xp":2300,"premium":true,"joinDate":"2025-01-06"},
+  {"_id":"u2","username":"karim","country":"MA","level":2,"streak":3,"xp":820,"premium":false,"joinDate":"2025-02-14"},
+  {"_id":"u3","username":"sara","country":"CA","level":5,"streak":19,"xp":3120,"premium":true,"joinDate":"2024-11-19"},
+  {"_id":"u4","username":"leo","country":"FR","level":3,"streak":7,"xp":1540,"premium":false,"joinDate":"2025-03-02"},
+  {"_id":"u5","username":"mina","country":"BE","level":6,"streak":25,"xp":4210,"premium":true,"joinDate":"2024-10-10"},
+  {"_id":"u6","username":"yass","country":"TN","level":1,"streak":1,"xp":260,"premium":false,"joinDate":"2025-04-01"},
+  {"_id":"u7","username":"chloe","country":"CH","level":4,"streak":9,"xp":2010,"premium":true,"joinDate":"2024-12-21"},
+  {"_id":"u8","username":"noah","country":"FR","level":2,"streak":5,"xp":940,"premium":false,"joinDate":"2025-02-03"},
+  {"_id":"u9","username":"ines","country":"DZ","level":3,"streak":8,"xp":1710,"premium":false,"joinDate":"2025-01-29"},
+  {"_id":"u10","username":"omar","country":"MA","level":5,"streak":14,"xp":2890,"premium":true,"joinDate":"2024-11-30"},
+  {"_id":"u11","username":"jade","country":"FR","level":1,"streak":2,"xp":330,"premium":false,"joinDate":"2025-04-08"},
+  {"_id":"u12","username":"ray","country":"US","level":4,"streak":11,"xp":2190,"premium":true,"joinDate":"2024-12-02"}
+]

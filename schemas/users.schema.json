@@ -1,0 +1,16 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["_id", "username", "country", "level", "streak", "xp", "premium", "joinDate"],
+    "properties": {
+      "_id": { "bsonType": "string" },
+      "username": { "bsonType": "string" },
+      "country": { "bsonType": "string" },
+      "level": { "bsonType": "int" },
+      "streak": { "bsonType": "int" },
+      "xp": { "bsonType": "int" },
+      "premium": { "bsonType": "bool" },
+      "joinDate": { "bsonType": "string" }
+    }
+  }
+}

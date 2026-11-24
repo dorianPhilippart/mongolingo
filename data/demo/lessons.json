@@ -1,0 +1,16 @@
+[
+  {"_id":"l1","courseCode":"MONGO-101","title":"find() premier pas","order":1,"durationMin":10,"isChallenge":false,"skills":["find","projection"]},
+  {"_id":"l2","courseCode":"MONGO-101","title":"Filtres composes","order":2,"durationMin":14,"isChallenge":false,"skills":["filter","comparison"]},
+  {"_id":"l3","courseCode":"MONGO-101","title":"Tri et limit","order":3,"durationMin":12,"isChallenge":true,"skills":["sort","limit"]},
+  {"_id":"l4","courseCode":"MONGO-201","title":"Group basics","order":1,"durationMin":18,"isChallenge":false,"skills":["group","sum"]},
+  {"_id":"l5","courseCode":"MONGO-201","title":"Unwind et arrays","order":2,"durationMin":21,"isChallenge":true,"skills":["unwind","array"]},
+  {"_id":"l6","courseCode":"MONGO-201","title":"AddFields utiles","order":3,"durationMin":19,"isChallenge":false,"skills":["addFields","avg"]},
+  {"_id":"l7","courseCode":"MONGO-301","title":"Lookup simple","order":1,"durationMin":22,"isChallenge":true,"skills":["lookup","join"]},
+  {"_id":"l8","courseCode":"MONGO-301","title":"Lookup pipeline","order":2,"durationMin":25,"isChallenge":true,"skills":["lookup","pipeline","expr"]},
+  {"_id":"l9","courseCode":"MONGO-401","title":"Facet multi-vues","order":1,"durationMin":30,"isChallenge":true,"skills":["facet","analytics"]},
+  {"_id":"l10","courseCode":"MONGO-401","title":"Stats avancees","order":2,"durationMin":28,"isChallenge":true,"skills":["group","round","cond"]},
+  {"_id":"l11","courseCode":"MONGO-JSON","title":"Export JSON","order":1,"durationMin":11,"isChallenge":false,"skills":["json","export"]},
+  {"_id":"l12","courseCode":"MONGO-BSON","title":"Serialiser BSON","order":1,"durationMin":17,"isChallenge":false,"skills":["bson","serialize"]},
+  {"_id":"l13","courseCode":"MONGO-IDX","title":"Indexes de base","order":1,"durationMin":16,"isChallenge":false,"skills":["index","explain"]},
+  {"_id":"l14","courseCode":"MONGO-LABS","title":"Final challenge","order":1,"durationMin":35,"isChallenge":true,"skills":["project","challenge","review"]}
+]

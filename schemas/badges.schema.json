@@ -1,0 +1,13 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["_id", "userId", "name", "tier", "awardedAt"],
+    "properties": {
+      "_id": { "bsonType": "string" },
+      "userId": { "bsonType": "string" },
+      "name": { "bsonType": "string" },
+      "tier": { "bsonType": "string" },
+      "awardedAt": { "bsonType": "string" }
+    }
+  }
+}

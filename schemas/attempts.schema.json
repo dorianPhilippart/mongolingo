@@ -1,0 +1,18 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["_id", "userId", "lessonId", "courseCode", "score", "timeSpentSec", "success", "attemptDate", "mistakes", "usedHint"],
+    "properties": {
+      "_id": { "bsonType": "string" },
+      "userId": { "bsonType": "string" },
+      "lessonId": { "bsonType": "string" },
+      "courseCode": { "bsonType": "string" },
+      "score": { "bsonType": "int" },
+      "timeSpentSec": { "bsonType": "int" },
+      "success": { "bsonType": "bool" },
+      "attemptDate": { "bsonType": "string" },
+      "mistakes": { "bsonType": "array" },
+      "usedHint": { "bsonType": "bool" }
+    }
+  }
+}

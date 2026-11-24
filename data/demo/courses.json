@@ -1,0 +1,10 @@
+[
+  {"_id":"c1","code":"MONGO-101","title":"Find et filtres","difficulty":1,"tags":["find","filter","projection"],"published":true,"lessonsCount":4,"ratings":[{"userId":"u1","score":4},{"userId":"u2","score":5},{"userId":"u8","score":4}]},
+  {"_id":"c2","code":"MONGO-201","title":"Aggregation fondations","difficulty":3,"tags":["aggregate","group","sort"],"published":true,"lessonsCount":5,"ratings":[{"userId":"u3","score":5},{"userId":"u4","score":4},{"userId":"u9","score":4}]},
+  {"_id":"c3","code":"MONGO-301","title":"Lookups avances","difficulty":4,"tags":["lookup","pipeline","joins"],"published":true,"lessonsCount":5,"ratings":[{"userId":"u5","score":5},{"userId":"u7","score":4},{"userId":"u10","score":5}]},
+  {"_id":"c4","code":"MONGO-401","title":"Pipelines experts","difficulty":5,"tags":["facet","window","optimization"],"published":true,"lessonsCount":6,"ratings":[{"userId":"u3","score":5},{"userId":"u5","score":5},{"userId":"u12","score":4}]},
+  {"_id":"c5","code":"MONGO-JSON","title":"Import Export JSON","difficulty":2,"tags":["json","io","admin"],"published":true,"lessonsCount":3,"ratings":[{"userId":"u6","score":3},{"userId":"u11","score":4}]},
+  {"_id":"c6","code":"MONGO-BSON","title":"BSON et binary","difficulty":3,"tags":["bson","backup","io"],"published":false,"lessonsCount":3,"ratings":[{"userId":"u1","score":4},{"userId":"u10","score":5}]},
+  {"_id":"c7","code":"MONGO-IDX","title":"Index et performance","difficulty":4,"tags":["index","query-plan","performance"],"published":true,"lessonsCount":4,"ratings":[{"userId":"u7","score":5},{"userId":"u12","score":4}]},
+  {"_id":"c8","code":"MONGO-LABS","title":"Cas pratiques","difficulty":5,"tags":["project","challenge","review"],"published":false,"lessonsCount":2,"ratings":[{"userId":"u3","score":5},{"userId":"u5","score":5}]}
+]

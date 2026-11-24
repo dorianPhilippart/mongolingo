@@ -1,0 +1,16 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["_id", "code", "title", "difficulty", "tags", "published", "lessonsCount", "ratings"],
+    "properties": {
+      "_id": { "bsonType": "string" },
+      "code": { "bsonType": "string" },
+      "title": { "bsonType": "string" },
+      "difficulty": { "bsonType": "int" },
+      "tags": { "bsonType": "array" },
+      "published": { "bsonType": "bool" },
+      "lessonsCount": { "bsonType": "int" },
+      "ratings": { "bsonType": "array" }
+    }
+  }
+}
